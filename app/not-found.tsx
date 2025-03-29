@@ -10,7 +10,7 @@ export default function NotFound() {
       </div>
       <div className="max-w-md">
         <p className="mb-4 text-xl leading-normal font-bold md:text-2xl">
-        很抱歉，小比克 迷路了 :/
+          很抱歉，小比克 迷路了 :/
         </p>
         <p className="mb-8">但不用擔心，您可以在我們的主頁上找到很多其他東西</p>
         <Link
