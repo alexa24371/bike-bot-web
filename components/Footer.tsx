@@ -28,8 +28,11 @@ export default function Footer() {
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://discord.com/oauth2/authorize?client_id=1211405791886839899">
-            小比克 bike     
+            小比克 bike
           </Link>
+        </div>
+        <div className="footer">
+          <p>Bike Bike Web</p>
         </div>
       </div>
     </footer>
