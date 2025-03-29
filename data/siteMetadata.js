@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'Bike Bot Web',
   author: 'ThumpingBike123',
-  headerTitle: 'Bike Bot Blog',
+  headerTitle: '小比克 Web',
   description: '小比克官方網站 v0.1-beta, made by ThumpingBike123',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -24,7 +24,7 @@ const siteMetadata = {
   bluesky: 'https://discord.com/oauth2/authorize?client_id=1211405791886839899',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
-  stickyNav: false,
+  stickyNav: true,
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
