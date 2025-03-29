@@ -6,7 +6,7 @@ const siteMetadata = {
   description: '小比克官方網站 v0.1-beta, made by ThumpingBike123',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://bike-bot-web-alpha.vercel.app/',
+  siteUrl: 'https://bike-bot-web-alpha.vercel.app/', 
   siteRepo: 'https://github.com/alexa24371/bike-bot-web',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
