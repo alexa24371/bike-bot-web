@@ -7,9 +7,9 @@ export default async function Page() {
   const posts = allCoreContent(sortedPosts)
   return (
     <>
-      <t href="static/chinese-runing.mcworld" download>
-        Download My File
-      </t>
+      <a href="static/chinese-runing.mcworld" download>
+        逃走中 中文翻译 v1.0
+      </a>
       <Main posts={posts} />
     </>
   )
